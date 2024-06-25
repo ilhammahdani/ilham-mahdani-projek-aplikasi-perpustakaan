@@ -7,6 +7,6 @@
 ```
 {
     "namabuku": "CARA AGAR RAJIN SHOLAT",
-    "penerbit": "M ARIF",
+    "penerbit": "ilham mahdani",
     "tahun": 2099
 }
